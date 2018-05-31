@@ -1,16 +1,16 @@
 # I've joined the #100DaysOfCode Challenge
 
+Hey there. I realized that I'm just not where I want to be as a developer, and there are a lot of projects
+ that I want to do, so why not kill two birds? This is my journey to make coding outside
+of work more of a habit and a routine. If you want to follow my journey stay tuned or give me a 
+follow on [twitter](https://twitter.com/DanGoodTweet)
+
 ## Contents
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
-
-## Translations
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [русский](intl/ru/README-ru.md) – [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)
-
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
 ## If you've decided to join:
 
