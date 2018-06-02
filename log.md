@@ -23,6 +23,16 @@ to do a little better tomorrow.
 **Link to work**:
 [Springfield](https://github.com/LtDan33/springfield)
 
+### Day 2: June 2nd, 2018 
+**Today's Progress**:
+Implemented templates and some more views. Individual bar pages
+
+**Thoughts:**
+Was out for a few days. Sat at the downtown Austin library and got some great work done. Its a lot like college
+where heading to the library lets me get focused on something. What I'm doing now is pretty basic, but 
+a lot of really great ideas had to start out getting the basic stuff done. Also the CRUD app I'm building
+isn't and doesn't have to change the world. Start small!
+
 <!-- ### Day x: May 28, 2018  -->
 <!-- **Today's Progress**: -->
 
